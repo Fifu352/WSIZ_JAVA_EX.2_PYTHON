@@ -40,7 +40,7 @@ def ex3():
 
 # EX.4
 def ex4():
-    print("EX.4: Create time calculator, to add up given minutes to given current time");
+    print("EX.4: Create time calculator, to add up given minutes to given current time")
     print("Input numbers as follows : hour, minutes, increment in minutes")
 
     hours = int(input())
